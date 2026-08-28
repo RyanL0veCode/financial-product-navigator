@@ -1,0 +1,13 @@
+interface:
+  display_name: 金融产品收益与风险导航
+  short_description: 通俗拆解金融产品的收益来源、风险传导、历史表现与适配条件
+  default_prompt: 使用 $financial-product-navigator 分析一项金融产品，并判断它是否适合我的目标和风险承受能力。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
