@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/icon.svg" width="72" alt="Financial Product Navigator icon">
+  <img src="./skill/assets/icon.svg" width="72" alt="Financial Product Navigator icon">
 </p>
 
 <h1 align="center">Financial Product Navigator</h1>
